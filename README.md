@@ -1,5 +1,5 @@
 # Udacity A/B Test
 
-This experiment is used as the final project for Udacity's A/B testing course, and was an actual experiment that was run by Udacity. The specific numbers have been changed but the patterns have not. The experiment overview and resulting data are provided by Udacity.
+This analysis uses an actual experiment that was run by Udacity. The specific numbers have been changed but the patterns have not. The experiment overview, metric defintiions, and resulting data are provided by Udacity from their A/B testing course by Google.
 
-See Colab notebook for detailed analysis, or PowerPoint Deck for highlights.
+See the Colab notebook for detailed analysis, and the PowerPoint Deck for a summary.
